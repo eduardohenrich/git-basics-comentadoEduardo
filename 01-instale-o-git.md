@@ -17,11 +17,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!--O github serve para gerenciar e sincronizar codigos de projetos permitindo o versionamento-->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!--É muito necessário usar quando queremos trabalhar em equipe em algum projeto de software-->
 
 ---
 
@@ -31,11 +31,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- O github serve para gerenciar e sincronizar codigos de projetos permitindo o versionamento -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!--É muito necessário usar quando queremos trabalhar em equipe em algum projeto de software-->
 
 ---
 
@@ -45,19 +45,19 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!--git serve para registrar e rastrear todas as alterações feitas em arquivos de algum projeto por meio de commits-->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!--Sempre usar o git quando se quer traabalhar em equipe conseguindo salvar o historico de mudanças->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [x] 1. GitHub para Windows
+- [x] 2. GitHub para Mac
+- [x] 3. Git para todas as plataformas
 
 ---
 
