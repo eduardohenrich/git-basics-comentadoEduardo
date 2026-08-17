@@ -19,11 +19,12 @@ git config --global user.name "[nome]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+
+<!--Define o nome de forma global no git-->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- usar sempre logo apos instalar o git -->
 
 ---
 
@@ -35,18 +36,18 @@ git config --global user.email "[endereco-de-email]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- define o endereço de email de forma global no git-->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!--usar logo apos fazer a instalação do git na maquina-->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git config --global user.name "[nome]"`
-- [ ] 2. `git config --global user.email "[endereco-de-email]"`
+- [x] 1. `git config --global user.name "[nome]"`
+- [x] 2. `git config --global user.email "[endereco-de-email]"`
 
 ---
 
