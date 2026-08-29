@@ -19,11 +19,11 @@ git reset [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+O comando git reset commit serve para mover o branch atual de volta para um commit específico do passado, alterando o histórico do seu projeto.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+para corrigir um erro recente, quando se faz um commit que causou algum bug e precisa volta para trás para resolver.
 
 ---
 
@@ -35,18 +35,18 @@ git reset --hard [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+força a branch atual a voltar exatamente ao estado daquele commit específico, destruindo permanentemente qualquer alteração feita depois dele.
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+para descartar um experimento que deu errado por exemplo.
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git reset [commit]`
-- [ ] 2. `git reset --hard [commit]`
+- [x] 1. `git reset [commit]`
+- [x] 2. `git reset --hard [commit]`
 
 ---
 
